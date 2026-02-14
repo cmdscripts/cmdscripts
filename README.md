@@ -18,7 +18,7 @@
 ---
 
 ## 🚀 What I do
-- 🔧 **FiveM Scripts** (modern, performant, cleanly structured)
+- 🔧 **FiveM Scripts**
 - 🧩 Focus on **server-side logic**, **statebags**, **ox_* stack**
 - 🧠 Optimization-first: **event-driven**, **net-safe**, **low overhead**
 
