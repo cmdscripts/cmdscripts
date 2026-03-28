@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Felix</h1>
 <p align="center">
-  <b>FiveM Developer</b> • <b>Lua</b> • <b>ox_lib / ox_inventory / ox_target</b> • <b>ESX / QBCore</b>
+  <b>Developer</b>
 </p>
 
 <p align="center">
@@ -19,8 +19,6 @@
 
 ## 🚀 What I do
 - 🔧 **FiveM Scripts**
-- 🧩 Focus on **server-side logic**, **statebags**, **ox_* stack**
-- 🧠 Optimization-first: **event-driven**, **net-safe**, **low overhead**
 
 ## 🧰 Tech Stack
 <p>
