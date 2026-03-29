@@ -37,16 +37,10 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FiveM-ffb000?style=flat-square" />
-  <img src="https://img.shields.io/badge/ox__lib-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/ox__inventory-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/ox__target-111111?style=flat-square" />
-
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-
   <!-- DevOps & Tools -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -67,14 +61,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cmdscripts&hide_border=true" />
 </p>
-
----
-
-## 🗺️ Roadmap 2026
-- [ ] Documentation, examples & benchmarks
-- [ ] Web & API Projects
-- [ ] CI/CD & DevOps Automation
-- [ ] Advanced Database Optimization
 
 ---
 
