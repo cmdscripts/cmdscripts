@@ -69,5 +69,5 @@
 - Issues & requests: via **Discord** ✍️
 
 <p align="center">
-  <sub>Built for FiveM • performance minded • Full Stack & SysAdmin skills</sub>
+  <sub>Full Stack skills</sub>
 </p>
