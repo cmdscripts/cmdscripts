@@ -16,14 +16,6 @@
 </p>
 
 ---
-
-## 🚀 What I do
-- 🔧 **FiveM Scripts**
-- 🌐 Web Development (Frontend & Backend)
-- 🗄️ Database Design & Management
-- ⚙️ DevOps & Automation
-- 🖥️ System Administration
-
 ## 🧰 Tech Stack
 <p>
   <!-- Languages -->
